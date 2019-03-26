@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/maniacalbrain/travis-ci-tutorial-java.svg?branch=master)](https://travis-ci.org/maniacalbrain/travis-ci-tutorial-java)
+[![Build Status](https://travis-ci.com/maniacalbrain/travis-ci-tutorial-java.svg?branch=master)](https://travis-ci.com/maniacalbrain/travis-ci-tutorial-java)
 [![Code Coverage](https://codecov.io/github/maniacalbrain/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/maniacalbrain/travis-ci-tutorial-java)
 
 # travis-ci-tutorial-java
